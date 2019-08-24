@@ -1,3 +1,5 @@
-Robot SynerLine z wizyjnym systemem jazdy po linii oraz rozpoznawaniem znaków. [Strona projektu](http://synergia.pwr.wroc.pl/project/synerline/)Poniżej foto z zawodów RoboDrift 2017
+Robot SynerLine z wizyjnym systemem jazdy po linii oraz rozpoznawaniem znaków. </br>
+[Strona projektu](http://synergia.pwr.wroc.pl/project/synerline/)
 
 ![Screenshot](images/synerline)
+Zawody RoboDrift 2017
